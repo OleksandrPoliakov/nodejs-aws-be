@@ -1,0 +1,79 @@
+[
+  {
+    "count": 56,
+    "description": "S-Works Aethos - Founder's Edition",
+    "id": "7567ec4b-b10c-48c5-9345-fc73c48a80aa",
+    "price": 14500,
+    "title": "Aethos - Founder's Edition"
+  },
+  {
+    "count": 33,
+    "description": "S-Works Aethos - SRAM Red ETap AXS",
+    "id": "8cd7f886-04c6-4ef2-9098-751815597387",
+    "price": 13000,
+    "title": "Aethos"
+  },
+  {
+    "count": 12,
+    "description": "S-Works Tarmac SL7 - Dura Ace Di2",
+    "id": "93e400a1-fb13-4329-9fd3-8c5047603095",
+    "price": 13000,
+    "title": "Tarmac SL7"
+  },
+  {
+    "count": 3,
+    "description": "Tarmac SL6 Comp",
+    "id": "7567ec4b-b10c-45c5-9345-fc73c48a80a1",
+    "price": 4000,
+    "title": "Tarmac SL6"
+  },
+  {
+    "count": 52,
+    "description": "S-Works Roubaix – SRAM Red ETAP AXS",
+    "id": "468008cd-9ffe-4041-8697-f4586cdfcd70",
+    "price": 12000,
+    "title": "Roubaix"
+  },
+  {
+    "count": 7,
+    "description": "S-Works Shiv TT Disc",
+    "id": "7567ec4b-b10c-48c5-9345-fc73c48a80a3",
+    "price": 14500,
+    "title": "Shiv TT"
+  },
+  {
+    "count": 6,
+    "description": "S-Works Shiv Disc",
+    "id": "7567ec4b-b10c-48c5-9345-fc73c48a80a0",
+    "price": 13500,
+    "title": "Shiv"
+  },
+  {
+    "count": 7,
+    "description": "CruX Pro",
+    "id": "7567ec4b-b10c-48c5-9345-fc73c48a80a2",
+    "price": 6800,
+    "title": "CruX Pro"
+  },
+  {
+    "count": 12,
+    "description": "S-Works Diverge",
+    "id": "7567ec4b-b10c-48c5-9345-fc73c48a80a1",
+    "price": 10500,
+    "title": "Diverge"
+  },
+  {
+    "count": 8,
+    "description": "S-Works Turbo Creo SL",
+    "id": "7567ec4b-b10c-48c5-9345-fc73348a80a1",
+    "price": 14750,
+    "title": "Turbo Creo"
+  },
+  {
+    "count": 2,
+    "description": "S-Works Turbo Creo SL EVO",
+    "id": "7567ec4b-b10c-48c5-9445-fc73c48a80a2",
+    "price": 14750,
+    "title": "Turbo Creo EVO"
+  }
+]
